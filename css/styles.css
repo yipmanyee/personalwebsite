@@ -24,14 +24,14 @@
 }
 
 .about{
-    margin: 4em 0;
+    margin: 1em 0;
     padding: 2em;
     position: relative;
 }
 
 .about h1{
     color:red;
-    margin: 4em;
+    margin: 2em;
 }
 
 .about img{
